@@ -1,0 +1,29 @@
+_repo: Baker-s-Dozens_60683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+    wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
+description: ''
+gutenberg_issued: '2019-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Identity -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Baker's Dozens
+url: http://www.gutenberg.org/ebooks/60683
